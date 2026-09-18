@@ -1,0 +1,1 @@
+# android_device_samsung_exynos7870-mainline-test
